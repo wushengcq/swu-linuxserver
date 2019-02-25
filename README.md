@@ -1,2 +1,2 @@
 # swu-linuxserver
-Linux Server Management 
+Course website of Linux Server Management 
